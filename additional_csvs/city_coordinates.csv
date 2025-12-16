@@ -1,0 +1,377 @@
+port_of_lading,lat,lng
+"Aabenraa, Denmark",55.0362,9.418
+"Aalborg, Denmark",57.0337,9.9166
+"Aarhus, Denmark",56.1572,10.2107
+"Aberdeen, United Kingdom",57.15,-2.11
+"Acajutla, El Salvador",13.59,-89.8336
+"Adelaide, Australia",-34.9275,138.6
+"Aden, Yemen",12.8,45.0333
+"Agadir, Morocco",30.4214,-9.5831
+"Aioi, Japan",34.8,134.4667
+"Algeciras, Spain",36.1275,-5.4539
+"Alicante, Spain",38.3453,-0.4831
+"Amagasaki, Japan",34.7333,135.4
+"Amsterdam, Netherlands",52.3728,4.8936
+"Ancona, Italy",43.6167,13.5167
+"Antofagasta, Chile",-23.65,-70.4
+"Arica, Chile",-18.4784,-70.3212
+"Ashdod, Israel",31.7978,34.6503
+"Auckland, New Zealand",-36.8492,174.7653
+"Augusta, Italy",37.2303,15.2194
+"Aveiro, Portugal",40.6389,-8.6553
+"Bangkok, Thailand",13.7525,100.4942
+"Barahona, Dominican Republic",18.2079,-71.0996
+"Bari, Italy",41.1253,16.8667
+"Barletta, Italy",41.3167,16.2833
+"Batangas, Philippines",13.83,121.0
+"Beira, Mozambique",-19.8333,34.85
+"Belfast, United Kingdom",54.5967,-5.93
+"Bilbao, Spain",43.2569,-2.9236
+"Bitung, Indonesia",1.4472,125.1978
+"Boca Chica, Dominican Republic",18.4539,-69.6064
+"Bordeaux, France",44.84,-0.58
+"Brest, France",48.39,-4.49
+"Bridgetown, Barbados",13.0969,-59.6131
+"Brindisi, Italy",40.6383,17.9458
+"Brisbane, Australia",-27.4678,153.0281
+"Bristol, United Kingdom",51.4536,-2.5975
+"Buchanan, Liberia",5.8808,-10.0467
+"Buenaventura, Colombia",3.8772,-77.0267
+"Buenos Aires, Argentina",-34.6036,-58.3814
+"Bunbury, Australia",-33.3272,115.6369
+"Burgas, Bulgaria",42.503,27.4702
+"Burnie, Australia",-41.0636,145.8753
+"Butterworth, Malaysia",5.4171,100.4
+"Cagayan de Oro, Philippines",8.48,124.65
+"Cagliari, Italy",39.2167,9.1167
+"Calais, France",50.9481,1.8564
+"Caldera, Chile",-27.0667,-70.8333
+"Caleta Olivia, Argentina",-46.4333,-67.5333
+"Callao, Peru",-12.0522,-77.1392
+"Campana, Argentina",-34.1667,-58.9167
+"Campeche, Mexico",19.85,-90.5306
+"Cape Town, South Africa",-33.9253,18.4239
+"Casablanca, Morocco",33.5333,-7.5833
+"Catania, Italy",37.5027,15.0873
+"Cherbourg, France",49.63,-1.62
+"Chioggia, Italy",45.2189,12.2785
+"Christchurch, New Zealand",-43.5311,172.6361
+"Civitavecchia, Italy",42.1,11.8
+"Corinto, Nicaragua",12.4833,-87.1833
+"Cotonou, Benin",6.3667,2.4333
+"Dakar, Senegal",14.6726,-17.432
+"Dar es Salaam, Tanzania",-6.8161,39.2803
+"Davao, Philippines",7.07,125.6
+"Djibouti, Djibouti",11.5944,43.1481
+"Doha, Qatar",25.2867,51.5333
+"Dordrecht, Netherlands",51.7958,4.6783
+"Dover, United Kingdom",51.1295,1.3089
+"Dublin, Ireland",53.3497,-6.2603
+"Dumai, Indonesia",1.6667,101.45
+"East London, South Africa",-33.0175,27.9047
+"Ensenada, Mexico",31.8578,-116.6058
+"Esbjerg, Denmark",55.467,8.45
+"Falmouth, United Kingdom",50.15,-5.07
+"Fawley, United Kingdom",50.828,-1.352
+"Ferrol, Spain",43.4844,-8.2328
+"Fredericia, Denmark",55.5758,9.7617
+"Frederikshavn, Denmark",57.4337,10.5333
+"Fredrikstad, Norway",59.2181,10.9298
+"Freetown, Sierra Leone",8.4833,-13.2331
+"Fukuyama, Japan",34.4858,133.3622
+"Gdynia, Poland",54.5175,18.54
+"Geelong, Australia",-38.15,144.35
+"Georgetown, Guyana",6.8011,-58.155
+"Geraldton, Australia",-28.7744,114.6089
+"Gibraltar, Gibraltar",36.14,-5.35
+"Gioia Tauro, Italy",38.4333,15.9
+"Giresun, Turkey",40.9153,38.3894
+"Gladstone, Australia",-23.8427,151.2555
+"Glasgow, United Kingdom",55.8611,-4.25
+"Gothenburg, Sweden",57.7075,11.9675
+"Grangemouth, United Kingdom",56.012,-3.717
+"Greenock, United Kingdom",55.95,-4.765
+"Guayaquil, Ecuador",-2.19,-79.8875
+"Guaymas, Mexico",27.9183,-110.8933
+"Hachinohe, Japan",40.5123,141.4884
+"Haifa, Israel",32.8192,34.9992
+"Haiphong, Vietnam",20.8651,106.6838
+"Haldia, India",22.0667,88.0698
+"Halmstad, Sweden",56.6718,12.8556
+"Hamilton, Bermuda",32.2942,-64.7819
+"Hamina, Finland",60.5667,27.2
+"Hartlepool, United Kingdom",54.69,-1.21
+"Helsingborg, Sweden",56.0424,12.721
+"Helsinki, Finland",60.1708,24.9375
+"Hiroshima, Japan",34.3914,132.4519
+"Hobart, Australia",-42.8806,147.325
+"Hong Kong, Hong Kong",22.3,114.2
+"Huasco, Chile",-28.4664,-71.2192
+"Iligan, Philippines",8.23,124.25
+"Ilo, Peru",-17.6459,-71.3453
+"Imbituba, Brazil",-28.24,-48.67
+"Immingham, United Kingdom",53.6139,-0.2183
+"Iquique, Chile",-20.2167,-70.15
+"Isla Mujeres, Mexico",21.2333,-86.7333
+"Ismailia, Egypt",30.5833,32.2667
+"Istanbul, Turkey",41.0136,28.955
+"Itacoatiara, Brazil",-3.1428,-58.4439
+"Iztapa, Guatemala",13.9331,-90.7075
+"Jaffna, Sri Lanka",9.6647,80.0167
+"Jambi, Indonesia",-1.59,103.61
+"Kagoshima, Japan",31.5969,130.5572
+"Kalundborg, Denmark",55.682,11.1004
+"Kamaishi, Japan",39.2758,141.8857
+"Kamsar, Guinea",10.65,-14.6167
+"Karlshamn, Sweden",56.1697,14.8638
+"Kasaoka, Japan",34.5039,133.51
+"Kawasaki, Japan",35.5167,139.7
+"Kawasaki, Japan",33.6,130.815
+"Kemi, Finland",65.7361,24.5636
+"Kingsnorth, United Kingdom",51.1178,0.8615
+"Koper, Slovenia",45.55,13.7333
+"Kota Kinabalu, Malaysia",5.98,116.11
+"Kotka, Finland",60.4667,26.9417
+"Kowloon, Hong Kong",22.3167,114.1833
+"Kribi, Cameroon",2.935,9.91
+"Kuantan, Malaysia",3.83,103.32
+"Kuching, Malaysia",1.53,110.33
+"Kudamatsu, Japan",34.015,131.8703
+"Kwinana, Australia",-32.2394,115.7702
+"La Libertad, Ecuador",-2.2333,-80.9
+"La Paz, Mexico",24.1422,-110.3108
+"La Plata, Argentina",-34.9211,-57.9544
+"La Spezia, Italy",44.108,9.8289
+"Lahad Datu, Malaysia",5.0464,118.336
+"Larne, United Kingdom",54.8517,-5.8133
+"Larvik, Norway",59.0532,10.0271
+"Le Havre, France",49.49,0.1
+"Libreville, Gabon",0.3901,9.4544
+"Limassol, Cyprus",34.6747,33.0442
+"Linden, Guyana",6.0,-58.3
+"Lipari, Italy",38.4673,14.9554
+"Lisbon, Portugal",38.7122,-9.134
+"Liverpool, United Kingdom",53.4072,-2.9917
+"Livorno, Italy",43.55,10.3167
+"Lobito, Angola",-12.35,13.5464
+"London, United Kingdom",51.5072,-0.1275
+"Luanda, Angola",-8.8383,13.2344
+"MacKay, Australia",-21.1411,149.1858
+"Madre de Deus, Brazil",-12.7408,-38.6208
+"Manado, Indonesia",1.4931,124.8413
+"Manaus, Brazil",-3.1189,-60.0217
+"Manta, Ecuador",-0.95,-80.7162
+"Manzanillo, Mexico",19.0522,-104.3158
+"Maputo, Mozambique",-25.9153,32.5764
+"Mar del Plata, Argentina",-38.0,-57.55
+"Marina di Carrara, Italy",44.0381,10.0456
+"Mariveles, Philippines",14.43,120.48
+"Marsaxlokk, Malta",35.8417,14.5447
+"Marseille, France",43.2964,5.37
+"Mersin, Turkey",36.8,34.6333
+"Milazzo, Italy",38.217,15.237
+"Milford Haven, United Kingdom",51.7142,-5.0427
+"Mo i Rana, Norway",66.3167,14.1667
+"Moengo, Suriname",5.6167,-54.4
+"Mohammedia, Morocco",33.6833,-7.3833
+"Mollendo, Peru",-17.0231,-72.0147
+"Mombasa, Kenya",-4.05,39.6667
+"Monfalcone, Italy",45.8046,13.5329
+"Monrovia, Liberia",6.3133,-10.8014
+"Montego Bay, Jamaica",18.4667,-77.9167
+"Montevideo, Uruguay",-34.9056,-56.1842
+"Montrose, United Kingdom",56.708,-2.467
+"Motril, Spain",36.75,-3.5167
+"Mumbai, India",19.0761,72.8775
+"Mundra, India",22.85,69.73
+"Murmansk, Russia",68.9706,33.075
+"Muroran, Japan",42.3167,140.9667
+"Nador, Morocco",35.1667,-2.9333
+"Nakhodka, Russia",42.8167,132.8667
+"Nakhodka, Russia",67.7206,77.6617
+"Napier, New Zealand",-39.4903,176.9178
+"Narvik, Norway",68.4383,17.4278
+"Natal, Brazil",-5.795,-35.2089
+"Natal, Brazil",-6.9838,-60.2699
+"Nelson, New Zealand",-41.2931,173.2381
+"New Amsterdam, Guyana",6.25,-57.5167
+"Newcastle, Australia",-32.9306,151.7542
+"Nha Trang, Vietnam",12.245,109.1917
+"Niigata, Japan",37.9161,139.0364
+"Nouakchott, Mauritania",18.0858,-15.9785
+"Novorossiysk, Russia",44.7167,37.7833
+"Nyborg, Denmark",55.3058,10.8034
+"Ocho Rios, Jamaica",18.4167,-77.1167
+"Oristano, Italy",39.9058,8.5916
+"Oskarshamn, Sweden",57.2667,16.4333
+"Oslo, Norway",59.9133,10.7389
+"Otaru, Japan",43.1833,141.0
+"Owendo, Gabon",0.2912,9.5047
+"Paita, Peru",-5.0911,-81.1064
+"Palembang, Indonesia",-2.9861,104.7556
+"Palermo, Italy",38.1157,13.3613
+"Pasir Gudang, Malaysia",1.462,103.9053
+"Penarth, United Kingdom",51.43,-3.17
+"Perth, Australia",-31.9558,115.8597
+"Phuket, Thailand",7.8881,98.3975
+"Pisco, Peru",-13.7167,-76.2
+"Ponta Delgada, Portugal",37.74,-25.67
+"Pontianak, Indonesia",-0.0206,109.3414
+"Pori, Finland",61.4833,21.8
+"Porsgrunn, Norway",59.1419,9.6568
+"Port Dickson, Malaysia",2.5228,101.7959
+"Port Harcourt, Nigeria",4.8242,7.0336
+"Port Louis, Mauritius",-20.1644,57.5042
+"Port Said, Egypt",31.2625,32.3061
+"Port Sudan, Sudan",19.6158,37.2164
+"Porto Empedocle, Italy",37.2944,13.5272
+"Porto, Portugal",41.1495,-8.6108
+"Poti, Georgia",42.15,41.6667
+"Probolinggo, Indonesia",-7.75,113.2167
+"Progreso, Mexico",21.28,-89.67
+"Progreso, Mexico",32.5842,-115.5842
+"Provideniya, Russia",64.4235,-173.2258
+"Puerto Armuelles, Panama",8.2833,-82.8667
+"Puerto Colombia, Colombia",11.0167,-74.8833
+"Puerto Del Rosario, Spain",28.5,-13.8667
+"Puerto El Triunfo, El Salvador",13.2833,-88.55
+"Puerto Madryn, Argentina",-42.7667,-65.05
+"Puerto Plata, Dominican Republic",19.8,-70.6833
+"Puerto Vallarta, Mexico",20.6458,-105.2222
+"Pula, Croatia",44.8703,13.8456
+"Pulupandan, Philippines",10.52,122.8
+"Punta Arenas, Chile",-53.1667,-70.9333
+"Puntarenas, Costa Rica",9.9667,-84.8333
+"Quelimane, Mozambique",-17.8764,36.8872
+"Raahe, Finland",64.6833,24.4667
+"Rabat, Morocco",34.0209,-6.8416
+"Ras Tanura, Saudi Arabia",26.7074,50.0674
+"Rauma, Finland",61.1333,21.5
+"Ravenna, Italy",44.4161,12.2017
+"Rayong, Thailand",12.6742,101.2789
+"Recife, Brazil",-8.0539,-34.8808
+"Regla, Cuba",23.1317,-82.3364
+"Riga, Latvia",56.9475,24.1069
+"Rio de Janeiro, Brazil",-22.9111,-43.2056
+"Rio Grande, Brazil",-32.035,-52.0989
+"Rivadavia, Argentina",-31.5303,-68.5947
+"Rivadavia, Argentina",-33.1833,-68.4667
+"Rosario, Argentina",-32.9575,-60.6394
+"Rota, Spain",36.6167,-6.35
+"Rotterdam, Netherlands",51.92,4.48
+"Rouen, France",49.4428,1.0886
+"Safi, Morocco",32.2833,-9.2333
+"Sagunto, Spain",39.68,-0.2783
+"Salerno, Italy",40.6806,14.7594
+"Salford, United Kingdom",53.483,-2.2931
+"Salina Cruz, Mexico",16.1833,-95.2083
+"Saltpond, Ghana",5.2091,-1.0606
+"Salvador, Brazil",-12.9831,-38.4928
+"Samarinda, Indonesia",-0.5,117.1378
+"Samsun, Turkey",41.2903,36.3336
+"San Antonio, Chile",-33.5933,-71.6217
+"San Lorenzo, Argentina",-32.75,-60.7333
+"San Lorenzo, Argentina",-28.1381,-58.7681
+"San Pedro, Argentina",-33.6792,-59.6669
+"San Pedro, Argentina",-24.2196,-64.87
+"San Pedro, Belize",17.9214,-87.9611
+"Sandakan, Malaysia",5.843,118.108
+"Santa Elena, Ecuador",-2.2267,-80.8583
+"Santa Marta, Colombia",11.2419,-74.2053
+"Santander, Spain",43.4628,-3.805
+"Santiago, Chile",-33.4372,-70.6506
+"Santo Domingo, Dominican Republic",18.4764,-69.8933
+"Sattahip, Thailand",12.6664,100.9007
+"Savona, Italy",44.3081,8.4811
+"Semarang, Indonesia",-6.99,110.4225
+"Severodvinsk, Russia",64.5667,39.8667
+"Sfax, Tunisia",34.74,10.76
+"Sharjah, United Arab Emirates",25.3575,55.3908
+"Sheerness, United Kingdom",51.441,0.76
+"Sihanoukville, Cambodia",10.6333,103.5
+"Sikka, India",22.4244,69.842
+"Sines, Portugal",37.9547,-8.8642
+"Singapore, Singapore",1.3,103.8
+"Sitrah, Bahrain",26.12,50.65
+"Skien, Norway",59.2096,9.609
+"Skikda, Algeria",36.8667,6.9
+"Split, Croatia",43.51,16.44
+"Stavanger, Norway",58.97,5.7314
+"Stenungsund, Sweden",58.0833,11.8167
+"Stockholm, Sweden",59.3275,18.0547
+"Struer, Denmark",56.4862,8.6044
+"Suez, Egypt",29.9667,32.5333
+"Sunderland, United Kingdom",54.906,-1.381
+"Sundsvall, Sweden",62.4001,17.3167
+"Surabaya, Indonesia",-7.2458,112.7378
+"Susaki, Japan",33.3925,133.2931
+"Sydney, Australia",-33.8667,151.2
+"Szczecin, Poland",53.4325,14.5481
+"Talara, Peru",-4.5799,-81.2719
+"Talcahuano, Chile",-36.7167,-73.1219
+"Tallinn, Estonia",59.4372,24.7453
+"Tampico, Mexico",22.2553,-97.8686
+"Tangier, Morocco",35.7767,-5.8039
+"Taranto, Italy",40.4711,17.2431
+"Tarragona, Spain",41.1175,1.2528
+"Tauranga, New Zealand",-37.6858,176.1667
+"Tawau, Malaysia",4.271,117.896
+"Tellicherry, India",11.7481,75.4929
+"Tema, Ghana",5.6667,-0.0167
+"Terneuzen, Netherlands",51.3333,3.8333
+"Tiburon, Haiti",18.3266,-74.3953
+"Tiksi, Russia",71.6269,128.835
+"Tilbury, United Kingdom",51.4606,0.3582
+"Timaru, New Zealand",-44.3931,171.2508
+"Tocopilla, Chile",-22.0889,-70.1958
+"Tomakomai, Japan",42.6333,141.6
+"Torre Annunziata, Italy",40.7569,14.4444
+"Townsville, Australia",-19.25,146.8167
+"Trani, Italy",41.2667,16.4167
+"Trapani, Italy",38.0175,12.515
+"Troon, United Kingdom",55.54,-4.66
+"Trujillo, Honduras",15.9179,-85.953
+"Trujillo, Peru",-8.112,-79.0288
+"Tuapse, Russia",44.1044,39.0772
+"Tulcea, Romania",45.1775,28.8036
+"Tumaco, Colombia",1.8067,-78.7647
+"Tunis, Tunisia",36.8064,10.1817
+"Turbo, Colombia",8.1,-76.7333
+"Turku, Finland",60.4517,22.2669
+"Tuticorin, India",8.8056,78.145
+"Tuxpan, Mexico",19.5539,-103.3756
+"Tuxpan, Mexico",19.5661,-100.4625
+"Tuxpan, Mexico",21.8667,-105.45
+"Uddevalla, Sweden",58.3667,11.9333
+"Ushuaia, Argentina",-54.8019,-68.3031
+"Uusikaupunki, Finland",60.8,21.4167
+"Vaasa, Finland",63.1,21.6167
+"Valdivia, Chile",-39.8139,-73.2458
+"Valencia, Spain",39.47,-0.3764
+"Valletta, Malta",35.8983,14.5125
+"Vanino, Russia",49.0873,140.2425
+"Varna, Bulgaria",43.2114,27.9111
+"Venice, Italy",45.4397,12.3319
+"Veracruz, Mexico",19.1903,-96.1533
+"Victoria, Seychelles",-4.6231,55.4525
+"Vigo, Spain",42.2314,-8.7124
+"Vila do Conde, Brazil",-7.26,-34.9078
+"Villeta, Paraguay",-25.5123,-57.5647
+"Vinaroz, Spain",40.4686,0.4736
+"Vladivostok, Russia",43.115,131.8853
+"Vlissingen, Netherlands",51.45,3.5833
+"Vyborg, Russia",60.7167,28.7667
+"Wakayama, Japan",34.2333,135.1667
+"Warri, Nigeria",5.5167,5.75
+"Waterford, Ireland",52.2583,-7.119
+"Weipa, Australia",-12.63,141.8786
+"Whakatane, New Zealand",-37.964,176.984
+"Workington, United Kingdom",54.6365,-3.5549
+"Wyndham, Australia",-15.4825,128.1228
+"Yalta, Ukraine",44.4994,34.17
+"Yokohama, Japan",35.4442,139.6381
+"Yokosuka, Japan",35.0,16.0
+"Ystad, Sweden",55.4167,13.8167
+"Zaandam, Netherlands",52.4333,4.8333
+"Ziguinchor, Senegal",12.5861,-16.2707
+"Zonguldak, Turkey",41.4564,31.7986
