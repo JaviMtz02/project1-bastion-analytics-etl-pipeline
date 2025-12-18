@@ -3,6 +3,7 @@ CREATE DATABASE shipments;
 GO
 
 use shipments;
+
 CREATE TABLE weight_units (
 	weight_unit_id INT PRIMARY KEY,
 	weight_unit VARCHAR(100)
@@ -38,9 +39,6 @@ CREATE TABLE [weight] (
 	[weight] BIGINT
 );
 
-
-use shipments_2020;
-GO
 
 CREATE TABLE shipments (
 	identifier BIGINT PRIMARY KEY,

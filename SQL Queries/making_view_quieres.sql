@@ -1,39 +1,14 @@
 -- Queries are commented so that they won't show errors
--- This is a list of all queries ran to create all views for my use case
+-- This is a list of all queries ran to create all views for the use case
 
 
 --TOP 10 Exporter Ports in 2019 Vs 2020
---run this select statement to get the answer!
+--run this statement to get the answer!
 /*
-SELECT *
-FROM (
-    SELECT 
-        s.port_lading_id,
-        p.port_of_lading,
-        COUNT(*) AS shipment_count,
-        2019 AS shipment_year,
-        ROW_NUMBER() OVER (PARTITION BY 2019 ORDER BY COUNT(*) DESC) AS rn
-    FROM shipments_2019.dbo.shipments s
-    JOIN shipments_2019.dbo.port_of_lading p
-        ON s.port_lading_id = p.port_lading_id
-    GROUP BY s.port_lading_id, p.port_of_lading
 
-    UNION ALL
-
-    SELECT 
-        s.port_lading_id,
-        p.port_of_lading,
-        COUNT(*) AS shipment_count,
-        2020 AS shipment_year,
-        ROW_NUMBER() OVER (PARTITION BY 2020 ORDER BY COUNT(*) DESC) AS rn
-    FROM shipments_2020.dbo.shipments s
-    JOIN shipments_2020.dbo.port_of_lading p
-        ON s.port_lading_id = p.port_lading_id
-    GROUP BY s.port_lading_id, p.port_of_lading
-) t
-WHERE rn <= 10
-ORDER BY shipment_year, rn;
-
+////////////////////////////////////
+///     Top Exporters   ///////////
+//////////////////////////////////
 
 CREATE VIEW TopPorts AS
 SELECT *
@@ -67,6 +42,9 @@ WHERE rn <= 10;
 
 
 
+////////////////////////////////////
+///     Top Importers   ///////////
+//////////////////////////////////
 
 CREATE VIEW TopImporters AS
 SELECT *
@@ -101,6 +79,9 @@ WHERE rn <= 10;
 
 -- Views for checking the estimated arrival time vs the actual arrival time
 
+////////////////////////////////////
+///     Arrival Time    ///////////
+//////////////////////////////////
 
 CREATE VIEW arrival_date_diffs_2020 AS 
 SELECT 
@@ -138,6 +119,10 @@ JOIN shipments_2019.dbo.manifest_quantities m
     ON y.manifest_quantity_id = m.manifest_quantity_id
 GROUP BY shipment_year;
 
+
+////////////////////////////////////
+///     Manifest YOY Change   /////
+//////////////////////////////////
 
 CREATE VIEW ManifestYoYChange AS
 SELECT
@@ -192,6 +177,9 @@ GROUP BY p.port_of_lading;
 
 
 
+////////////////////////////////////
+///     Ports By Container   //////
+//////////////////////////////////
 CREATE VIEW TopPortsByContainers AS
 SELECT *
 FROM (
@@ -225,6 +213,11 @@ FROM (
     ) s
 ) t
 WHERE rn <= 10;
+
+
+//////////////////////////////////////////////
+///     Estimated Arrival Accuracy   ////////
+////////////////////////////////////////////
 
 
 CREATE VIEW EstimatedArrivalAccuracyByYear AS
